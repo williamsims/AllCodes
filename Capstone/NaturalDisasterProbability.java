@@ -1,6 +1,6 @@
 //**************************************
 //William Simunek
-//Senior Capstone  
+//  
 //**************************************
 import java.util.Scanner;
 public class NaturalDisasterProbability
